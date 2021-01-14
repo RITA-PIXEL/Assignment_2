@@ -16,6 +16,9 @@
     border-radius: 10px;
     padding-left: 30px;
 }
+.lst{
+    float: left;
+}
 .but{
     background-color: #a3c420;
     border-radius: 16px;
@@ -36,9 +39,9 @@
     background-color: whitesmoke;
 }
 .middle img{
-    padding: 40px;
+    padding: 20px;
     height: 400px;
-    width: 400px;
+    width: 380px;
     background-color:#F1F1F1;
     border-radius: 20px;
    
@@ -77,9 +80,24 @@ main{
 
 }
 .foot{
-    margin-top: 200px;
+    margin-top: 60px;
     text-align: center;
+    background-color: bisque;
+    border-radius: 30px;
+    padding-top: 50px;
+    padding-bottom: 80px;
 }
 .social-icons{
     padding:10px;
+}
+.dec{
+    padding-bottom: 40px;
+}
+.soc{
+    padding:10px;
+    font-size: 60px;
+    
+}
+.hed{
+    background-color: blanchedalmond;
 }
